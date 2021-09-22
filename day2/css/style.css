@@ -1,0 +1,75 @@
+/*My first CSS*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffcc;
+}
+img {
+    border: 10px solid green;
+}
+h1 {
+    border: 5px dotted pink;
+}
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-style: italic;
+    text-align: center;
+}
+cite {
+    font-size: 1.5rem;
+}
+.bigbold {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+ul {
+    background-color: tomato;
+    height: 4rem;
+}
+.invcolor {
+    background-color: black;
+    font-size: 2rem;
+    color: lightgray;
+}
+ol{
+    font-size: 1rem;
+    font-style: italic;
+    color: lime;
+    text-align: right;
+}
+.uglyh2{
+    color: magenta;
+    font-style: oblique;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul a:link{
+    font-weight: bold;
+    text-decoration: none;
+    color: brown;
+    font-size: 2rem;
+}
+a:visited{
+    color: green;
+    font-weight: normal;
+}
+a:hover{
+    color: orange;
+    text-decoration: underline;
+    background-color: white;
+}
+a.harvard:link{
+    color: maroon;
+}
+p:hover{
+    background-color: black;
+    color: blanchedalmond;
+}
+h2, h3, .bigbold {
+    color: orange;
+}
+#myid {
+    color: purple;
+    font-weight: bold;
+}

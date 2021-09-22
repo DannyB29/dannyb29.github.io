@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    color: #00051C;
+    background-color: #C4C7F2;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+blockquote {
+    background-color: #A7B2F2;
+    border: 3px dashed #00051C;
+    padding: 1%;
+    font-size: 1,3rem;   
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #4146A6;
+}
+
+ol {
+    border: 3px dotted #00051C;
+    background-color: #9498F2;
+    width: 250px;
+    background-repeat: no;
+}
